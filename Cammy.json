@@ -13,5 +13,5 @@
   ],
   "InternalName": "Cammy",
   "AssemblyVersion": "9.9.9.9",
-  "Changelog": "Fix camera resetting to default on zoning (Thanks to Chat Ja)"
+  "Changelog": "Added view bobbing controls: vertical/horizontal intensity, stabilization, height follow speed and head forward offset"
 }
